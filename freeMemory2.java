@@ -12,3 +12,5 @@ public class freeMemory2 {
     }
 
 }
+
+/** a program in java to compute the free memory that your application */
